@@ -13,6 +13,8 @@ Dica: Realizem este trabalho por etapas, garantindo que cada implementação est
 
 # trabalhofullstack
 # Feito com Node.JS JavaScript, HTML e CSS 
+# Conexão com o Banco de Dados PostgreSQL: 
+Usa o Sequelize para interagir com um banco de dados PostgreSQL
 # Express.js: 
 Framework backend para Node.js que facilita a criação de servidores e APIs.
 # express.static: 
