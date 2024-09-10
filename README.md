@@ -12,7 +12,7 @@ IMPORTANTE: o nome do repositório deverá ser: trabalhofullstack, deverá ser u
 Dica: Realizem este trabalho por etapas, garantindo que cada implementação esteja correta, está permitido consulta a fóruns, stackoverflow e principalmente nas documentações que deixei aqui no classroom.
 
 # trabalhofullstack
-
+# Feito com Node.JS JavaScript, HTML e CSS 
 # Express.js: 
 Framework backend para Node.js que facilita a criação de servidores e APIs.
 # express.static: 
