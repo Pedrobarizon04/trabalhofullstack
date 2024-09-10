@@ -16,4 +16,3 @@ Rotas do Express (app.post): Recebe os dados do cliente (nome, CPF, telefone) e 
 
 ![Tela](https://github.com/user-attachments/assets/b06c5ae4-c752-4b04-8676-fbd334dd163c)
 ![banco](https://github.com/user-attachments/assets/bc28a20c-96c0-4024-9a9d-e82e3e2bdef4)
-![Arquivos](https://github.com/user-attachments/assets/8b5014b3-4c9c-47aa-bb60-ca5f50ecfe57)
