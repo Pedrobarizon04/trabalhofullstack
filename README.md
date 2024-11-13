@@ -1,7 +1,7 @@
 # trabalhofullstack
 
-# Atividade Proposta
-Caros Alunos, para esse trabalho iremos construir um cadastro de pessoas físicas, deve ser desenvolvido um backend (sugerimos o uso do NodeJs+Sequelize+Postgres para o Backend, também serão aceitos backends em Java+spring e em PHP + Laravel) que irá receber os dados da pessoa e persistí-las, o frontend deverá ser desenvolvido em HTML+CSS+JS(está permitido o uso de Bootstrap, Tailwind e outros frameworks CSS). A seguir segue a estrutura de dados Pessoa que deverá ser enviada pelo front e recebida e tratada no back:
+## Atividade Proposta
+Para esse trabalho iremos construir um cadastro de pessoas físicas, deve ser desenvolvido um backend (sugerimos o uso do NodeJs+Sequelize+Postgres para o Backend, também serão aceitos backends em Java+spring e em PHP + Laravel) que irá receber os dados da pessoa e persistí-las, o frontend deverá ser desenvolvido em HTML+CSS+JS(está permitido o uso de Bootstrap, Tailwind e outros frameworks CSS). A seguir segue a estrutura de dados Pessoa que deverá ser enviada pelo front e recebida e tratada no back:
 
 Pessoa: Nome, CPF, Telefone.
 
@@ -12,18 +12,18 @@ IMPORTANTE: o nome do repositório deverá ser: trabalhofullstack, deverá ser u
 Dica: Realizem este trabalho por etapas, garantindo que cada implementação esteja correta, está permitido consulta a fóruns, stackoverflow e principalmente nas documentações que deixei aqui no classroom.
 
 # trabalhofullstack
-# Feito com Node.JS JavaScript, HTML e CSS 
-# Conexão com o Banco de Dados PostgreSQL: 
+## Feito com Node.JS JavaScript, HTML e CSS 
+### Conexão com o Banco de Dados PostgreSQL: 
 Usa o Sequelize para interagir com um banco de dados PostgreSQL
-# Express.js: 
+### Express.js: 
 Framework backend para Node.js que facilita a criação de servidores e APIs.
-# express.static: 
+### express.static: 
 Serve arquivos estáticos, como HTML, CSS e JS, no lado do servidor.
-# fetch API: 
+### fetch API: 
 No lado do cliente (navegador), faz requisições HTTP para o servidor.
-# JSON:
+### JSON:
 O corpo da requisição é enviado e recebido no formato JSON.
-# Event Listener:
+### Event Listener:
 No frontend, o formulário de cadastro intercepta o evento submit para enviar os dados ao servidor sem recarregar a página.
 Rotas do Express (app.post): Recebe os dados do cliente (nome, CPF, telefone) e os manipula no backend.
 
@@ -32,4 +32,4 @@ Rotas do Express (app.post): Recebe os dados do cliente (nome, CPF, telefone) e 
 ![image](https://github.com/user-attachments/assets/c86c7c76-ab70-4671-a92b-42453f3a2f2a)
 
 
-O projeto me trouxe um grande avanço no que posso aplicar em futuros desafios.
+## O projeto me trouxe um grande avanço no que posso aplicar em futuros desafios.
